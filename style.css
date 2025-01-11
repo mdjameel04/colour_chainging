@@ -1,0 +1,19 @@
+*{
+ padding: 0;
+ margin: 0;
+}
+
+
+.buttons{
+    height: 450px;
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.btn{
+    height: 150px;
+    width:  150px;
+    
+}
